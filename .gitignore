@@ -1,5 +1,44 @@
 
+# Byte-compiled / cache files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+.env/
+
+# Environment files
+.env
+*.env
+
+# Database & data files
 *.db
+*.sqlite3
 *.json
+*.csv
+
+# Images & media (optional — keep only if you don’t want to version them)
 *.jpg
+*.jpeg
+*.png
+*.gif
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+*.egg-info/
+dist/
+build/
+
