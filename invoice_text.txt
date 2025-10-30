@@ -1,0 +1,55 @@
+Cc
+
+CPB SOFTWARE (GERMANY) GMBH
+
+Im Bruch 3, 63897 Miltenborg
+Telefon +49 93/1 9786 0
+getmany@cpb-soltware cam
+www cpb-soltware com
+
+CPB Sottwara (Germany) GmbH - Im Bruch 3 - 63897 MitenbergiMan
+Musterkunde AG
+Mr. John Doe
+
+Musterstr. 23
+12345 Musterstadt
+
+Invoice WMACCESS Internet
+
+VAT No, DE199378386
+
+Name: Siefanie Miller
+
+Phone: +49 9371 9786-0
+
+Invoice No Customer No Invoice Period Date
+123100401 | 12345 01.02.2024 - 29.02.2024 1. Marz 2024
+Service Description ee quantity Total Amount
+Basic Fee wmView 130,00 €] 1 130.00 €|
+Basis fee lor additional user accounts 70,00 €| | 0,00€
+Basic Fee wmPos 50.00 € 9 0,00 €
+Basic Fee wmGuide 1,000.06 €] a 0.00€
+[Change of user accounls Q 0,006
+Transaction Fae T4 0,58 €| 14) 8,12 €]
+Transaction Fee T2 0,70€| 9] 0,00 €}
+Transaction Fee T3 162 243,00 €|
+Transaciion Fee T4 i) 0.00 €}
+Transaction Fee TS q
+Transaction Fee T6 1806 a] 0.006
+Transaction Fea G1 0,30 €| 9] 0,00 €}
+Firansaction Fee G2 0.30€ a 0,00 €
+Transaction Fea G3 a 0.00€
+Transaction Fee G4 0,40 €| 9] 0,00 €}
+Transaction Fee G5 0.306 a] 0.00€
+Transaction Fee G6 0,30 a] 0,00€
+Total Bet 12 €
+VAT 19% 72,41 €|
+Gross Amount incl. VAT 453,53 €
+
+Terms of Payment: immediate payment withoul discount. Any bank charges must be paid by the invoice recipient.
+
+Bank fees at our expense will be charged te the invoice recipient!
+
+Please credit he amoun! invoiced to IBAN DE29 1234 §678 9012 3456 78 | BIC GENODES1MIC (SEPA Credil Transtar)
+
+This invoice is generated automatically and will not be signed
